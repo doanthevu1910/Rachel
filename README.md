@@ -11,20 +11,23 @@ Audio codec:         Realtek ALC285
 Ethernet card:       Intel® Ethernet Connection I219-V
 Wifi/Bluetooth card: Intel® Dual Band Wireless-AC 8265
 Keyboard & Trackpad: LED backlight, TrackPoint and multi-touch touchpad
-
 ```
 
 # macOS Monterey 12.6.3 / Clover 5150
 
+https://github.com/CloverHackyColor/CloverBootloader/releases
+
 # Works
 - Sleep / Wake
 - Audio
+- Wifi (via HeliPort)
 - Ethernet
+- Keyboard & Trackpad
 - All USB ports (2.0, 3.0 & Type-C)
 - All Apple services (FaceTime, Find My, iMessage, iCloud)
 
 # Doesn't work
-- AirDrop, Handoff, Continuity (native Wifi/Bluetooth card needed)
+- Bluetooth, AirDrop, Handoff, Continuity (native Wifi/Bluetooth card needed)
 
 # Result
 ![Info]()
