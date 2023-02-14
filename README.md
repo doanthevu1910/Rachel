@@ -30,7 +30,7 @@ https://github.com/CloverHackyColor/CloverBootloader/releases
 - Bluetooth, AirDrop, Handoff, Continuity (native Wifi/Bluetooth card needed)
 
 # Result
-![Info]()
+![Info](images/Screenshot 2023-02-14 at 12.42.51.png)
 
 # Note
 
