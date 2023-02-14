@@ -37,5 +37,5 @@ https://github.com/CloverHackyColor/CloverBootloader/releases
 Please change MLB, SystemSerialNumber, and SystemUUID using [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS).
 
 # Credits
-- (vanhung4499)[https://github.com/vanhung4499/x1c6-clover-hackintosh]
-- (tylernguyen)[https://github.com/tylernguyen/x1c6-hackintosh]
+- [@vanhung4499](https://github.com/vanhung4499/x1c6-clover-hackintosh)
+- [@tylernguyen](https://github.com/tylernguyen/x1c6-hackintosh)
