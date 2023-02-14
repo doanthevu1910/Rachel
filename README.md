@@ -30,12 +30,12 @@ https://github.com/CloverHackyColor/CloverBootloader/releases
 - Bluetooth, AirDrop, Handoff, Continuity (native Wifi/Bluetooth card needed)
 
 # Result
-![Info](images/Screenshot 2023-02-14 at 12.42.51.png)
+![Info](https://github.com/doanthevu1910/Rachel/blob/master/images/Screenshot%202023-02-14%20at%2012.42.51.png)
 
 # Note
 
 Please change MLB, SystemSerialNumber, and SystemUUID using [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS).
 
 # Credits
-- (vanhung4499)[https://github.com/vanhung4499/x1c6-clover-hackintosh]
-- (tylernguyen)[https://github.com/tylernguyen/x1c6-hackintosh]
+- [@vanhung4499](https://github.com/vanhung4499/x1c6-clover-hackintosh)
+- [@tylernguyen](https://github.com/tylernguyen/x1c6-hackintosh)
