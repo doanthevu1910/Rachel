@@ -20,14 +20,15 @@ https://github.com/CloverHackyColor/CloverBootloader/releases
 # Works
 - Sleep / Wake
 - Audio
-- Wifi (via HeliPort)
+- Wifi
+- Bluetooth
 - Ethernet
 - Keyboard & Trackpad
 - All USB ports (2.0, 3.0 & Type-C)
 - All Apple services (FaceTime, Find My, iMessage, iCloud)
 
 # Doesn't work
-- Bluetooth, AirDrop, Handoff, Continuity (native Wifi/Bluetooth card needed)
+- AirDrop, Handoff, Continuity (native Wifi/Bluetooth card needed)
 
 # Result
 ![Info](https://github.com/doanthevu1910/Rachel/blob/master/images/Screenshot%202023-02-14%20at%2012.42.51.png)
