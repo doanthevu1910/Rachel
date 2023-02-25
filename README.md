@@ -10,7 +10,7 @@ Display:             14.0", 1920x1080, IPS LCD (non-touch)
 Audio codec:         Realtek ALC285
 Ethernet card:       Intel® Ethernet Connection I219-V
 Wifi/Bluetooth card: Intel® Dual Band Wireless-AC 8265
-Keyboard & Trackpad: LED backlight, TrackPoint and multi-touch touchpad
+Keyboard & Trackpad: Japanese keyboard with LED backlight, TrackPoint and multi-touch touchpad
 ```
 
 # macOS Monterey 12.6.3 / Clover 5150
