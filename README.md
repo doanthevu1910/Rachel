@@ -4,7 +4,7 @@
 Model:               Lenovo ThinkPad X1 Carbon (6th Gen) (Type 20KG)
 CPU:                 Intel® Core™ i5-8250U
 GPU:                 Intel® UHD Graphics 620
-RAM:                 8GB LPDDR3 2133MHz
+RAM:                 8GB 2133MHz DDR3 
 SSD:                 Lenovo LENSE30256GMSP34MEAT3TA 256GB
 Display:             14.0", 1920x1080, IPS LCD (non-touch)
 Audio codec:         Realtek ALC285
